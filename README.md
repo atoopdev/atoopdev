@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atoopdev
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning CSS.
+- 🌱 I’m currently learning CSS and Javascript.
 - 📫 You can reach me at amandatoop.com
 
 <!---
